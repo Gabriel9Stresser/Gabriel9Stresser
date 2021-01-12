@@ -14,7 +14,7 @@ I already risked a career as a musician, but I should have stayed with kkkk poet
 
 These are some of the technologies and tools that I work with:
 
-//![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)//
+/*![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)*/
 //![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
