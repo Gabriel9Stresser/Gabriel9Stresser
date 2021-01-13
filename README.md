@@ -10,7 +10,7 @@ I already risked a career as a musician, but I should have stayed with kkkk poet
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/gabriel-augusto-soler-stresser-366719100/)
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](https://www.youtube.com/c/SETArap/featured)
 
-## ⚡ Technologies
+## 🛹 Technologies
 
 These are some of the technologies and tools that I work with:
 
