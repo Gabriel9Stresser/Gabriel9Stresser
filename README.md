@@ -1,6 +1,6 @@
 # 3Stresser3
 
-### Hi there 👋
+### Hi there 🦈
 
 My name is Gabriel Stresser, I am a student of mechatronic engineering, passionate about technologies since my childhood, I have been improving my skills. A young Brazilian with disposition and courage!
 
