@@ -4,7 +4,7 @@
 
 My name is Gabriel Stresser, I am a student of mechatronic engineering, passionate about technologies since my childhood, I have been improving my skills. A young Brazilian with disposition and courage!
 
-I already risked a career as a musician, but I should have stayed with kkkk poetry. It gave me presentations and good times [videos](https://www.youtube.com/c/SETArap/featured). 
+I already risked a career as a musician, but I should have stayed with poetry kkkk. It gave me presentations and good times [videos](https://www.youtube.com/c/SETArap/featured). 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/stresser?style=social)](https://twitter.com/Acalma_Stresser)
 [![Linkedin: stresser](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stresser/)](https://www.linkedin.com/in/gabriel-augusto-soler-stresser-366719100/)
