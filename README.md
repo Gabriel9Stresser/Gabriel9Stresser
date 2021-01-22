@@ -45,8 +45,8 @@ These are some of the technologies and tools that I work with:
 
 <h3>🚀 GitHub stats</h3>
 <a href="https://github.com/Gabriel9Stresser">
-  &nbsp; <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel9Stresser&show_icons=true&theme=radical" alt="9Stresser9 statistics." />
-  &nbsp; <img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel9Stresser&layout=compact&langs_count=6&theme=radical" alt="9Stresser9 statistics." />
+  &nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel9Stresser&show_icons=true&theme=radical" alt="9Stresser9 statistics." />
+  &nbsp; <img height="150m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel9Stresser&layout=compact&langs_count=6&theme=radical" alt="9Stresser9 statistics." />
 </a>
 
 <hr />
