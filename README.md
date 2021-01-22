@@ -14,17 +14,52 @@ I already risked a career as a musician, but I should have stayed with poetry kk
 
 These are some of the technologies and tools that I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<ul>
+  <li> 🌐 
+    <img src="https://img.shields.io/badge/-HTML5-yellow?color=2c3e50&logo=HTML5&style=flat-square" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS-yellow?color=2c3e50&logo=CSS3&style=flat-square&logoColor=1572B6" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-Javascript-yellow?color=2c3e50&logo=javascript&style=flat-square" alt="Javascript"/>
+    <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square&logoColor=007ACC" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/-React-yellow?color=2c3e50&logo=react&style=flat-square" alt="React"/>
+    <img src="https://img.shields.io/badge/-Node.js-yellow?color=2c3e50&logo=node.js&style=flat-square" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/-PHP-yellow?color=2c3e50&logo=PHP&style=flat-square" alt="PHP"/>
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+    ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+    ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  </li>
+  <li> 📲 
+    <img src="https://img.shields.io/badge/-React_Native-yellow?color=2c3e50&logo=react&style=flat-square" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-Expo-yellow?color=2c3e50&logo=expo&style=flat-square&logoColor=171e29" alt="Expo"/>
+    <img src="https://img.shields.io/badge/-Styled_Components-yellow?color=2c3e50&logo=styled-components&style=flat-square" alt="Styled Components"/>
+  </li>
+  <li> ⚙️ 
+    <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-yellow?color=2c3e50&logo=visual-studio-code&style=flat-square&logoColor=007ACC" alt="Visual Studio Code"/>
+  </li>
+  <li> 🛢 
+    <img src="https://img.shields.io/badge/-MySQL-yellow?color=2c3e50&logo=mysql&style=flat-square" alt="MySQL"/> 
+  </li>
+</ul>
+
+<hr />
+
+<h3>🚀 GitHub stats</h3>
+<a href="https://github.com/Gabriel9Stresser">
+  &nbsp; <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Gabriel9Stresser&show_icons=true&theme=radical" alt="Gabriel Stresser statistics." />
+  &nbsp; <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel9Stresse&layout=compact&langs_count=6&theme=radical" alt="Gabriel Stresser statistics." />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
