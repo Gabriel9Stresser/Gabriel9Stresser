@@ -29,7 +29,7 @@ These are some of the technologies and tools that I work with:
   <li> 📲 
     <img src="https://img.shields.io/badge/-React_Native-yellow?color=2c3e50&logo=react&style=flat-square" alt="React Native"/>
     <img src="https://img.shields.io/badge/-Expo-yellow?color=2c3e50&logo=expo&style=flat-square&logoColor=171e29" alt="Expo"/>
-    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&style=flat-square" alt="Angular"/>
+    <img src="https://img.shields.io/badge/-Angular-material-DD0031?style=flat-square&logo=angular" alt="Angular"/>
   </li>
   <li> ⚙️ 
     <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="GitHub"/>
