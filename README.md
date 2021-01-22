@@ -49,7 +49,7 @@ These are some of the technologies and tools that I work with:
   &nbsp; <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel9Stresser&layout=compact&langs_count=6&theme=radical" alt="Gabriel Stresser statistics." />
 </a>
 
-
+<hr />
 
 
 
