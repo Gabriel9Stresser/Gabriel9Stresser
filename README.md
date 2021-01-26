@@ -37,7 +37,7 @@ These are some of the technologies and tools that I work with:
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-yellow?color=2c3e50&logo=visual-studio-code&style=flat-square&logoColor=007ACC" alt="Visual Studio Code"/>
   </li>
   <li> 🛢 
-    <p> ....LOADING </p>
+    <img src="https://img.shields.io/badge/-java-yellow?color=2c3e50&logo=java&style=flat-square" alt="Java"/>
   </li>
 </ul>
 
