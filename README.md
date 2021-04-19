@@ -16,6 +16,7 @@ These are some of the technologies and tools that I work with:
 
 <ul>
   <li> 🌐 
+    <img src="https://img.shields.io/badge/-Python-yellow?color=2c3e50&logo=python&style=flat-square" alt="Python"/>
     <img src="https://img.shields.io/badge/-HTML5-yellow?color=2c3e50&logo=HTML5&style=flat-square" alt="HTML5"/>
     <img src="https://img.shields.io/badge/-CSS-yellow?color=2c3e50&logo=CSS3&style=flat-square&logoColor=1572B6" alt="CSS"/>
     <img src="https://img.shields.io/badge/-Javascript-yellow?color=2c3e50&logo=javascript&style=flat-square" alt="Javascript"/>
