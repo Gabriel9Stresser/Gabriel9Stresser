@@ -2,7 +2,7 @@
 
 ### Hi there 🦈
 
-My name is Gabriel Stresser, I'm a mechatronics engineering student, FullStack developer. I'm passionate about technologies since childhood, I've been improving my skills to become a reference one day. Bringing solutions to an FinTech in Brazil in the area of Development witch React + Node!
+My name is Gabriel Stresser, I'm a mechatronics engineering, FullStack developer. I'm passionate about technologies since childhood, I've been improving my skills to become a reference one day. Bringing solutions to an FinTech in Brazil in the area of Development witch React + Node!
 
 I already risked a career as a musician, but I should have stayed with poetry kkkk. It gave me presentations and good times [videos](https://www.youtube.com/c/SETArap/featured). 
 
