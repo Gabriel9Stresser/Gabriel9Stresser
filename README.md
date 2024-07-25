@@ -4,8 +4,6 @@
 
 My name is Gabriel Stresser, I'm a mechatronics engineering, FullStack developer. I'm passionate about technologies since childhood, I've been improving my skills to become a reference one day. Bringing solutions to an FinTech in Brazil in the area of Development witch React + Node!
 
-I already risked a career as a musician, but I should have stayed with poetry kkkk. It gave me presentations and good times [videos](https://www.youtube.com/c/SETArap/featured). 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/stresser?style=social)](https://twitter.com/Acalma_Stresser)
 [![Linkedin: stresser](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stresser/)](https://www.linkedin.com/in/gabriel-augusto-soler-stresser-366719100/)
 [![Youtube: stresser](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/stresser)](https://www.youtube.com/c/SETArap/featured)
